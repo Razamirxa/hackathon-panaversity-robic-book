@@ -106,8 +106,8 @@ Educational use permitted. Commercial use requires permission.
 
 ## Resources
 
-- **Live Textbook**: [https://Nabeerak.github.io/hackathon/](https://Nabeerak.github.io/hackathon/)
-- **GitHub Repository**: [https://github.com/Nabeerak/hackathon](https://github.com/Nabeerak/hackathon)
+- **Live Textbook**: [https://razamirxa.github.io/hackathon-panaversity-robic-book/](https://razamirxa.github.io/hackathon-panaversity-robic-book/)
+- **GitHub Repository**: [https://github.com/Razamirxa/hackathon-panaversity-robic-book](https://github.com/Razamirxa/hackathon-panaversity-robic-book)
 - **Panaversity**: [https://panaversity.org](https://panaversity.org)
 
 ## Technical Stack
