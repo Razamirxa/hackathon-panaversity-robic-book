@@ -125,7 +125,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Nabeerak/hackathon',
+          href: 'https://github.com/Razamirxa/hackathon-panaversity-robic-book',
           label: 'GitHub',
           position: 'right',
         },
@@ -185,7 +185,7 @@ const config: Config = {
             },
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/Nabeerak/hackathon',
+              href: 'https://github.com/Razamirxa/hackathon-panaversity-robic-book',
             },
             {
               label: 'ROS 2 Documentation',
