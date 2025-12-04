@@ -23,15 +23,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Nabeerak.github.io',
+  url: 'https://Razamirxa.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/hackathon/',
+  baseUrl: '/hackathon-panaversity-robic-book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Nabeerak', // Usually your GitHub org/user name.
-  projectName: 'hackathon', // Usually your repo name.
+  organizationName: 'Razamirxa', // Usually your GitHub org/user name.
+  projectName: 'hackathon-panaversity-robic-book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
@@ -52,7 +52,7 @@ const config: Config = {
           routeBasePath: '/physical-ai-textbook', // Serve docs at the site's root
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Nabeerak/hackathon/tree/main/docusaurus-book/',
+            'https://github.com/Razamirxa/hackathon-panaversity-robic-book/tree/main/docusaurus-book/',
           showLastUpdateTime: false, // Disabled - requires git
           showLastUpdateAuthor: false,
           breadcrumbs: true,
