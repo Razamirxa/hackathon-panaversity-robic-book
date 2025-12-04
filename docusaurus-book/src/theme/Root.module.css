@@ -1,0 +1,25 @@
+.authButtonContainer {
+  position: fixed;
+  top: 12px;
+  right: 420px;
+  z-index: 999;
+}
+
+@media (max-width: 1200px) {
+  .authButtonContainer {
+    right: 320px;
+  }
+}
+
+@media (max-width: 996px) {
+  .authButtonContainer {
+    right: 220px;
+    top: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .authButtonContainer {
+    right: 100px;
+  }
+}
